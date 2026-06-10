@@ -24,7 +24,7 @@
   **vipul10b@gmail.com**
 
 - 📄 Know about my experiences
-- https://drive.google.com/file/d/18hK4j8d8cU209NLfAcEdV5_Ss_lDsEDE/view?usp=sharing
+  https://drive.google.com/file/d/18hK4j8d8cU209NLfAcEdV5_Ss_lDsEDE/view?usp=sharing
 - ⚡ Fun fact  
   **I enjoy solving problems and analyzing data more than anything else.**
 
