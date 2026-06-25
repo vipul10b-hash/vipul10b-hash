@@ -12,21 +12,23 @@
   https://github.com/vipul10b-hash/Exploratory-Data-Analysis
 
 - 🌱 I’m currently learning  
-  **Machine Learning, Data Science fundamentals, and NLP (Natural Language Processing)**
-  https://github.com/vipul10b-hash/Machine-Learning-and-Data-Science-Portfolio.git
+  **Machine Learning, Data Science Fundamentals, and Natural Language Processing (NLP)**  
+  https://github.com/vipul10b-hash/Machine-Learning-and-Data-Science-Portfolio
 
 - 👨‍💻 All of my projects are available at  
   https://github.com/vipul10b-hash
 
 - 💬 Ask me about  
-  **Data Analysis, SQL, Excel, Power BI, Python, and basic Machine Learning concepts**
+  **Data Analysis, SQL, Excel, Power BI, Python, and Machine Learning**
 
 - 📫 How to reach me  
-  **vipul10b@gmail.com**
+  **Email:** vipul10b@gmail.com
 
-- 📄 Know about my experiences
-     https://drive.google.com/file/d/18hK4j8d8cU209NLfAcEdV5_Ss_lDsEDE/view?usp=sharing
-- ⚡ Fun fact  
+- 📄 Know about my experience  
+  https://drive.google.com/file/d/18hK4j8d8cU209NLfAcEdV5_Ss_lDsEDE/view?usp=sharing
+
+- ⚡ Professional Focus  
+  **Passionate about transforming data into actionable insights and continuously enhancing my analytical and problem-solving skills.**
   **I enjoy solving problems and analyzing data more than anything else.**
 
 ---
