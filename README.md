@@ -12,7 +12,7 @@
   https://github.com/vipul10b-hash/Exploratory-Data-Analysis
 
 - 🌱 I’m currently learning  
-  **Machine Learning, Data Science Fundamentals,Deep-Learning-Algorithms and Natural Language Processing (NLP)**  
+  **Machine Learning, Data Science Fundamentals, Deep-Learning-Algorithms and Natural Language Processing (NLP)**  
   https://github.com/vipul10b-hash/Machine-Learning-and-Data-Science-Portfolio
 
 - 👨‍💻 All of my projects are available at  
