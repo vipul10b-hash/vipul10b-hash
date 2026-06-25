@@ -13,6 +13,7 @@
 
 - 🌱 I’m currently learning  
   **Machine Learning, Data Science fundamentals, and NLP (Natural Language Processing)**
+https://github.com/vipul10b-hash/Machine-Learning-and-Data-Science-Portfolio.git
 
 - 👨‍💻 All of my projects are available at  
   https://github.com/vipul10b-hash
