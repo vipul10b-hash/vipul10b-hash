@@ -27,8 +27,7 @@
   **Email:** vipul10b@gmail.com
 
 - 📄 Know about my experience  
-  https://drive.google.com/file/d/18hK4j8d8cU209NLfAcEdV5_Ss_lDsEDE/view?usp=sharing
-
+ https://drive.google.com/file/d/1X5w6v1VmLGQ3psVOarOrUheJWlI9Ze6W/view?usp=sharing
 - ⚡ Professional Focus  
   **Passionate about transforming data into actionable insights and continuously enhancing my analytical and problem-solving skills.**
   **I enjoy solving problems and analyzing data more than anything else.**
